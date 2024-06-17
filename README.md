@@ -1,1 +1,1 @@
-A machine Learning project under supervision of Prodigy InfoTech, that predicts house prices based on a suppied dataset and thereafter plots the predicted and actual prices based on fed data.
+A machine Learning project under supervision of Prodigy InfoTech, that predicts house prices based on a suppied dataset with the help of a liner regression based ML model , and thereafter plots the predicted and actual prices based on fed data.
